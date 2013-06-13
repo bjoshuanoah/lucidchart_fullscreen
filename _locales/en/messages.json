@@ -1,0 +1,15 @@
+{
+  "appName": {
+    "message": "Pinterest Image Expander",
+    "description": "Expands Pinterest images on hover."
+  },
+  "appDesc": {
+    "message": "This extension enlarges Pinterest images when you hover over them", 
+    "description":"Chrome's premium image zoom/expander for Pinterest. The larger images load in-line instead of popping out. Just hover your mouse over the photo and you'll see it in a more manageable size.
+
+The Pinterest Image Expander makes re-pinning quicker. No need to click the image to view the detail. The image is automatically enlarged if you hover over it for more than half a second. If you are having trouble seeing exactly who is now following you because of the tiny avatar, or what somebody repinned because of the tiny photo, we have fixed that too! Just hover over your recent activity, and the images will pop out for better viewing.
+
+If you enjoy this extension, please give us a 5 star rating! If you don't think it's worth 5 stars, let us know what you would do differently before posting. :)
+Like us on Facebook: http://www.facebook.com/PinterestImageExpander"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "appName": {
+    "message": "pinterest 照片放大机",
+    "description": "悬停扩大Pinterest图像。"
+  },
+  "appDesc": {
+    "message": "悬停扩大Pinterest图像。", 
+    "description":"Chrome的高级图像缩放/扩展Pinterest。较大的图像，而不是弹出加载行。只需鼠标悬停照片，你会看到它在更多的管理规模。
+
+Pinterest图像扩展使得更快的重新固定。无需点击图片查看细节。图像会自动放大，如果你在它悬停超过半秒。如果您有麻烦正是看到现在由于微小的替身之后，或什么人由于微小的照片repinned，我们有固定的，太！只要将鼠标悬停在最近的活动，并会弹出更好的视觉图像。
+
+如果你喜欢这个扩展，请给我们一个5星级！如果你不觉得这是值得5颗星，让我们知道你会做什么之前发布不同。 :)
+喜欢我们的Facebook：http://www.facebook.com/PinterestImageExpander"
+  }
+}
