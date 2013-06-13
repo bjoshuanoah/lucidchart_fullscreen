@@ -1,0 +1,29 @@
+.gui-container {
+	.menu-bar {
+		-webkit-transition: margin-top, .5s;
+	}
+	.gui-bottom-container {
+		-webkit-transition: top, .5s;
+	}
+	.tool-box {
+		-webkit-transition: top, .5s;
+	}
+	.maximize {
+		cursor: default;
+	}
+	&.maximized {
+		.menu-bar {
+			margin-top:-84px;
+		}
+		.gui-bottom-container {
+			top:0px;
+			left:-143px;
+		}
+		.tool-box {
+			left:-143px;
+		}
+		.dock-button {
+			line-height: 21px;
+		}
+	}
+}

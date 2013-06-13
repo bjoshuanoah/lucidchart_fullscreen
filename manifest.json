@@ -10,16 +10,15 @@
   "content_scripts":[
     {
     	"matches": [
-        "http://pinterest.com/*",
-        "https://pinterest.com/*"
+        "http://www.lucidchart.com/*",
+        "https://www.lucidchart.com/*"
       ],
     	"css" : [
         "css/style.css"
       ],
     	"js" : [
         "js/jquery.js", 
-        "js/scripts.js", 
-        "js/jquery.cookie.js"
+        "js/scripts.js"
       ]
     }
   ]
