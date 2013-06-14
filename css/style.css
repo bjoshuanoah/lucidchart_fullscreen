@@ -1,16 +1,18 @@
 /* line 2, ../sass/style.scss */
 .gui-container .menu-bar { -webkit-transition: margin-top, .5s; }
 /* line 5, ../sass/style.scss */
-.gui-container .gui-bottom-container { -webkit-transition: top, .5s; }
+.gui-container .dock-container, .gui-container .dock-panel, .gui-container .gui-bottom-container, .gui-container .tool-box { -webkit-transition: top, .5s; }
 /* line 8, ../sass/style.scss */
-.gui-container .tool-box { -webkit-transition: top, .5s; }
-/* line 11, ../sass/style.scss */
 .gui-container .maximize { cursor: default; }
-/* line 15, ../sass/style.scss */
+/* line 12, ../sass/style.scss */
 .gui-container.maximized .menu-bar { margin-top: -84px; }
-/* line 18, ../sass/style.scss */
+/* line 15, ../sass/style.scss */
 .gui-container.maximized .gui-bottom-container { top: 0px; left: -143px; }
-/* line 22, ../sass/style.scss */
+/* line 19, ../sass/style.scss */
 .gui-container.maximized .tool-box { left: -143px; }
-/* line 25, ../sass/style.scss */
+/* line 22, ../sass/style.scss */
 .gui-container.maximized .dock-button { line-height: 21px; }
+/* line 25, ../sass/style.scss */
+.gui-container.maximized .dock-container { top: 88px; }
+/* line 28, ../sass/style.scss */
+.gui-container.maximized .dock-panel { top: 68px !important; }

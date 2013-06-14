@@ -2,10 +2,7 @@
 	.menu-bar {
 		-webkit-transition: margin-top, .5s;
 	}
-	.gui-bottom-container {
-		-webkit-transition: top, .5s;
-	}
-	.tool-box {
+	.dock-container, .dock-panel, .gui-bottom-container, .tool-box {
 		-webkit-transition: top, .5s;
 	}
 	.maximize {
@@ -24,6 +21,12 @@
 		}
 		.dock-button {
 			line-height: 21px;
+		}
+		.dock-container {
+			top:88px;
+		}
+		.dock-panel {
+			top:68px !important;
 		}
 	}
 }
